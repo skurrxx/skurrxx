@@ -13,7 +13,7 @@
 
 <p align="center">
   🧑‍💼 Currently working on: 
-  <a href="https://discord.gg/Xd4WXjbVte">Cafú Settings</a> & 
+  <a href="https://discord.gg/Xd4WXjbVte">Cafú Settings</a>,   <a href="https://discord.gg/soon">raw.bio</a> & 
   <a href="https://discord.gg/soon">SOoon</a>
 </p>
 
