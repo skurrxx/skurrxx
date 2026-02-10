@@ -14,7 +14,7 @@
 <p align="center">
   🧑‍💼 Currently working on: 
   <a href="https://discord.gg/Xd4WXjbVte">Cafú Settings</a> & 
-  <a href="https://discord.gg/soon">SOoon</a>
+  <a href="https://discord.gg/soon">Aerobotzz</a>
 </p>
 
 <div align="center"> 
