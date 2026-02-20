@@ -14,7 +14,8 @@
 <p align="center">
   🧑‍💼 Currently working on: 
   <a href="https://discord.gg/Xd4WXjbVte">Cafú Settings</a> & 
-  <a href="https://discord.gg/soon">Aerobotzz</a>
+  <a href="https://discord.gg/soon">Aerobotzz</a>,
+  <a href="https://discord.gg/Xjs4t9hxgV">ANIK CRIMELIFE</a>
 </p>
 
 <div align="center"> 
